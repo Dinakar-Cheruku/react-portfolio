@@ -13,7 +13,14 @@ export const ABOUT_TEXT = `As an aspiring full stack and cloud developer, I thri
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: "2025 - present",
+    role: "Software Engineer",
+    company: "Quantum Code",
+    description: `At Quantum Code, I work on modernizing data infrastructure by migrating legacy systems, optimizing PySpark pipelines, and improving overall data quality and validation frameworks. My role bridges backend engineering, ETL optimization, and collaboration with business and infrastructure teams to ensure reliable, scalable data delivery.`,
+    technologies: ["Python", "PySpark", "SQL", "Hadoop", "Jira","Git", "Shell", "Jenkins"],
+  },
+  {
+    year: "2024 - 2025",
     role: "Full Stack Developer Intern",
     company: "Glo-Up FashionMingle Inc.",
     description: `Contributed to a team in developing a multi-platform fashion applications using React-Native. Implemented Graph API and AI for personalised product reccomendations. Collaborated with stakeholders to define project requirements and timelines.`,
